@@ -13,4 +13,4 @@ Ensure you have the following prerequisites installed before using this reposito
 Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
