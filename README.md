@@ -7,9 +7,9 @@ This repository contains code and resources for leveraging Sentence Transformer 
 Ensure you have the following prerequisites installed before using this repository:
 
 - Python 3.6+
--OpenAI GPT-3 API key
--Required Python packages (specified in requirements.txt)
--Sentence Transformer library
+- OpenAI GPT-3 API key
+- Required Python packages (specified in requirements.txt)
+- Sentence Transformer library
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
